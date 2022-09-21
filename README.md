@@ -1,2 +1,2 @@
 # nlw-rockeseat
-Projeto desenvolvido no envento NLW eSports - Rockseat
+Projeto desenvolvido no evento NLW eSports - Rockseat
